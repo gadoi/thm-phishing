@@ -1,0 +1,75 @@
+
+Task 7 Phishing Case 1 
+https://gchq.github.io/CyberChef/#recipe=Defang_IP_Addresses()&input=MjA5Ljg1LjE2Ny4yMjY
+
+209[.]85[.]167[.]226
+
+https://gchq.github.io/CyberChef/#recipe=Defang_URL(true,true,true,'Valid%20domains%20and%20full%20URLs')&input=ZXRla25vLnh5eg
+etekno[.]xyz
+
+https://gchq.github.io/CyberChef/#recipe=Defang_URL(true,true,true,'Valid%20domains%20and%20full%20URLs')&input=aHR0cHM6Ly90LmNvL3l1eGZabThLUGc/YW1wPTE
+hxxps[://]t[.]co/yuxfZm8KPg?amp=1
+
+
+
+Task 8 Phishing Case 2 
+
+https://any.run/report/cc6f1a04b10bcb168aeec8d870b97bd7c20fc161e8310b5bce1af8ed420e2c24/8bfd4c58-ec0d-4371-bfeb-52a334b69f59
+---> Text report
+
+Suspicious activity
+
+https://gchq.github.io/CyberChef/#recipe=Defang_IP_Addresses()&input=Mi4xNi4xMDcuMjQ
+2[.]16[.]107[.]24
+
+https://gchq.github.io/CyberChef/#recipe=Defang_IP_Addresses()&input=Mi4xNi4xMDcuODM
+2[.]16[.]107[.]83
+
+
+https://app.any.run/tasks/8bfd4c58-ec0d-4371-bfeb-52a334b69f59/
+---> threats
+
+svchost.exe
+
+
+#Task 9 Phishing Case 3 
+
+https://app.any.run/tasks/82d8adc9-38a0-4f0e-a160-48a5e09a6e83/
+--> text report
+
+https://any.run/report/5f94a66e0ce78d17afc2dd27fc17b44b3ffc13ac5f42d3ad6a5dcfb36715f3eb/82d8adc9-38a0-4f0e-a160-48a5e09a6e83
+Malicious activity
+
+
+What is the name of the Excel file?
+CBJ200620039539.xlsx
+
+
+
+What is the SHA 256 hash for the file?
+5f94a66e0ce78d17afc2dd27fc17b44b3ffc13ac5f42d3ad6a5dcfb36715f3eb
+
+
+
+What domains are listed as malicious? Defang the URLs & submit answers in alphabetical order. (answer: URL1,URL2,URL3)
+
+https://gchq.github.io/CyberChef/#recipe=Defang_URL(true,true,true,'Valid%20domains%20and%20full%20URLs')&input=Yml6OWhvbGRpbmdzLmNvbQ
+biz9holdings[.]com, 
+
+https://gchq.github.io/CyberChef/#recipe=Defang_URL(true,true,true,'Valid%20domains%20and%20full%20URLs')&input=ZmluZHJlc3VsdHMuc2l0ZQ
+findresults[.]site
+
+https://gchq.github.io/CyberChef/#recipe=Defang_URL(true,true,true,'Valid%20domains%20and%20full%20URLs')&input=d3czOC5maW5kcmVzdWx0cy5zaXRl
+ww38[.]findresults[.]site
+
+
+
+- What IP addresses are listed as malicious? Defang the IP addresses & submit answers from lowest to highest. (answer: IP1,IP2,IP3)
+https://gchq.github.io/CyberChef/#recipe=Defang_IP_Addresses()&input=MjA0LjExLjU2LjQ4CjEwMy4yMjQuMTgyLjI1MQo3NS4yLjExLjI0Mg
+204[.]11[.]56[.]48, 103[.]224[.]182[.]251, 75[.]2[.]11[.]242
+
+
+What vulnerability does this malicious attachment attempt to exploit?
+CVE-2017-11882
+
+https://tryhackme.com/jr/phishingemails3tryoe
