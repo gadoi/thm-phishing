@@ -1,0 +1,27 @@
+Task 5 Email Body 
+
+In the attached virtual machine, view the information in email2.txt and reconstruct the PDF using the base64 data. What is the text within the PDF?
+copy base64 save file mail.txt
+
+cat mail.txt | base64 -d > mail.pdf 
+open pdf
+THM{BENIGN_PDF_ATTACHMENT}
+
+Task 6 Types of Phishing 
+
+# echo 'VGhhbmsgeW91ISBIb21lIERlcG90' | base64 -d                                                                                                                                1 ⨯
+Thank you! Home Depot 
+
+echo 'T3JkZXIgUGxhY2VkIDogWW91ciBPcmRlciBJRCBPRDIzMjE2NTcwODkyOTEgUGxhY2VkIFN1Y2Nlc3NmdWxseQ' | base64 -d
+Order Placed : Your Order ID OD2321657089291 Placed Successfullybase64: invalid input
+
+http://t.teckbe.com/p/?j3=EOowFcEwFHl6EOAyFcoUFVTVEchwFHlUFOo6lVTTDcATE7oUE7AUET==
+
+cyberchef
+search deflate
+paste url
+
+hxxp[://]t[.]teckbe[.]com/p/?j3=EOowFcEwFHl6EOAyFcoUFV=TVEchwFHlUFOo6lVTTDcATE7oUE7AUET==
+
+
+https://tryhackme.com/room/phishingemails1tryoe
