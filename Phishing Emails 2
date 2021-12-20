@@ -1,0 +1,48 @@
+
+Phishing Emails 2
+
+Task 2 Cancel your PayPal order 
+What phrase does the gibberish sender email start with?
+noreply
+
+Task 3 Track your package 
+
+What is the root domain for each URL? Defang the URL. 
+devret.xyz/
+
+https://gchq.github.io/CyberChef/#recipe=Defang_URL(true,true,false,'Valid%20domains%20and%20full%20URLs')&input=ZGV2cmV0Lnh5eg
+
+devret[.]xyz
+
+Task 4 Select your email provider to view document 
+This email sample used the names of a few major companies, their products, and logos such as OneDrive and Adobe. What other company name was used in this phishing email? 
+hint: https://app.any.run/tasks/12dcbc54-be0f-4250-b6c1-94d548816e5c/#
+see file 4,6Mb
+citrix
+
+Task 5 Please update your payment details 
+
+What should users do if they receive a suspicious email or text message claiming to be from Netflix?
+
+hint: https://www.consumeraffairs.com/news/police-warn-of-new-netflix-email-phishing-scam-121718.html
+forward the message to phishing@netflix.com
+
+
+Task 6 Your recent purchase 
+What does BCC mean? 
+Blind Carbon Copy
+
+
+
+What technique was used to persuade the victim to not ignore the email and act swiftly?
+Urgency
+
+Task 7 DHL Express Courier Shipping notice 
+
+What is the name of the executable that the Excel attachment attempts to run?
+
+regasms.exe
+
+https://tryhackme.com/room/phishingemails2rytmuv
+
+
